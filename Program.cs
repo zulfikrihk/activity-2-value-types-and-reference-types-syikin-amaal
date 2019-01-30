@@ -10,3 +10,9 @@ namespace CSharpConsoleApp
         }
     }
 }
+    class PetClass{
+        public int Legs;
+        public string Type;
+        public string Name;
+        public bool HasFur;
+    }
