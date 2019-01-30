@@ -16,3 +16,5 @@ namespace CSharpConsoleApp
         public string Name;
         public bool HasFur;
     }
+
+amal bida
