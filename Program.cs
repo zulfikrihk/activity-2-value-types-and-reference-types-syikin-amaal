@@ -10,7 +10,7 @@ namespace CSharpConsoleApp
         }
     }
 }
-    class PetClass{
+    class PetStruct{
         public int Legs;
         public string Type;
         public string Name;
